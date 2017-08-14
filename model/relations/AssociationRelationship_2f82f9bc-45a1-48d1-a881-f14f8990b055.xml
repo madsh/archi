@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Udstiller?&quot;"
+    id="2f82f9bc-45a1-48d1-a881-f14f8990b055">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_589acb82-3f0c-4f97-8ef1-f36e8df28b1d.xml#589acb82-3f0c-4f97-8ef1-f36e8df28b1d"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_7b3c3c77-840c-4a6a-a55c-fc38139973d1.xml#7b3c3c77-840c-4a6a-a55c-fc38139973d1"/>
+</archimate:AssociationRelationship>

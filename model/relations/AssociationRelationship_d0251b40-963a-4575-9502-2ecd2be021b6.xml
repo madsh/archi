@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;affinitiy&quot;"
+    id="d0251b40-963a-4575-9502-2ecd2be021b6">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7c4a2337-050b-4a7b-808b-a6500cd3b6c6.xml#7c4a2337-050b-4a7b-808b-a6500cd3b6c6"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_aef6c2e9-4f5a-4f63-87fb-577d577033f0.xml#aef6c2e9-4f5a-4f63-87fb-577d577033f0"/>
+</archimate:AssociationRelationship>

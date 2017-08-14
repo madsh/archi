@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omhandler"
+    id="8c524fb2-6a15-47ae-82c1-8fecd3c37788">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_835a2235-7190-44e2-b9bf-66af78bf2c8c.xml#835a2235-7190-44e2-b9bf-66af78bf2c8c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7c4a2337-050b-4a7b-808b-a6500cd3b6c6.xml#7c4a2337-050b-4a7b-808b-a6500cd3b6c6"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;anvendes i&quot;"
+    id="5a00a500-cf97-4092-9a2a-971905a8354f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cdec07ba-5723-4514-8c35-2eb9688f1b32.xml#cdec07ba-5723-4514-8c35-2eb9688f1b32"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_c5a73df3-c4e2-48b4-882c-cbc1ebb35f9e.xml#c5a73df3-c4e2-48b4-882c-cbc1ebb35f9e"/>
+</archimate:AssociationRelationship>

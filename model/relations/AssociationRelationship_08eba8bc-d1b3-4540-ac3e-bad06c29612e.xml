@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="koordinering"
+    id="08eba8bc-d1b3-4540-ac3e-bad06c29612e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_defd612a-f5a4-4774-9bf5-aeb5dd83183e.xml#defd612a-f5a4-4774-9bf5-aeb5dd83183e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_0f16e95c-618d-4857-b67e-d511a79b5454.xml#0f16e95c-618d-4857-b67e-d511a79b5454"/>
+</archimate:AssociationRelationship>

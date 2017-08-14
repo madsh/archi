@@ -1,0 +1,67 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="6. Information"
+    id="172b3b91-211f-43ed-8c5c-d9e2a6bb985a"
+    documentation="Hvilke forretningsobjekter indgår? &#xA;&#xA;Hvordan relaterer de sig til andre?&#xA;&#xA;Representation (beskeder) skal nok fremfgå af applikation&#xA;&#xA;Meaning, Representation, Dataobject?&#xA;&#xA;Følsomhed (sikkerhed)"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3d17641b-fdc8-4d8a-a77a-63a611f9b298">
+    <bounds
+        x="600"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_b9d51fb8-2bf2-4241-92d8-bed8ce9b12c5.xml#b9d51fb8-2bf2-4241-92d8-bed8ce9b12c5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="807d34eb-1e35-4503-8ea2-a970b69dd1e3">
+    <bounds
+        x="288"
+        y="156"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_0b38a58d-6620-451d-a485-3a27dad80a54.xml#0b38a58d-6620-451d-a485-3a27dad80a54"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="24227fb2-3cfc-445b-a28d-496521311a36">
+    <bounds
+        x="310"
+        y="39"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Meaning"
+        href="Meaning_704172c1-e056-4c2d-a8aa-a5a713e109bf.xml#704172c1-e056-4c2d-a8aa-a5a713e109bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="af6653ca-ab20-4838-99ce-1ccdd7b0b153">
+    <bounds
+        x="572"
+        y="230"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_31f1606f-372d-49d1-a8e2-0dba97b643a3.xml#31f1606f-372d-49d1-a8e2-0dba97b643a3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0daa6f22-bc4a-41eb-ada9-892ab3304e27"
+      textAlignment="1"
+      content="AR 6.1: Del og genbrug data&#xD;AR 6.2: Anvend fælles regler for dokumentation af data&#xD;AR 6.3: Giv data den kvalitet som efterspørges&#xD;AR 6.4: Udstil oplysninger om datakilder, begreber og datamodeller">
+    <bounds
+        x="170"
+        y="388"
+        width="395"
+        height="81"/>
+  </children>
+</archimate:ArchimateDiagramModel>

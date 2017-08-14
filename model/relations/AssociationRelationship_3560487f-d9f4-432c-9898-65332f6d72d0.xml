@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Udører?&quot;"
+    id="3560487f-d9f4-432c-9898-65332f6d72d0">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_861e5614-40bc-4556-b382-a4fc6816c653.xml#861e5614-40bc-4556-b382-a4fc6816c653"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_85012490-9617-4d25-b784-97a59739a146.xml#85012490-9617-4d25-b784-97a59739a146"/>
+</archimate:AssociationRelationship>

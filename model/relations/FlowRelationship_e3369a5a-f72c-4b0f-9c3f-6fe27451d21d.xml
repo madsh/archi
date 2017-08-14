@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informere"
+    id="e3369a5a-f72c-4b0f-9c3f-6fe27451d21d">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_eafcb2ca-3469-4f63-812f-254223622d82.xml#eafcb2ca-3469-4f63-812f-254223622d82"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_0ae902eb-64fc-4054-9813-fdacb42f326e.xml#0ae902eb-64fc-4054-9813-fdacb42f326e"/>
+</archimate:FlowRelationship>

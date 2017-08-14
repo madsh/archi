@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beskriver"
+    id="d172d676-5513-4e0e-ad81-73f8213d5b00">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_835a2235-7190-44e2-b9bf-66af78bf2c8c.xml#835a2235-7190-44e2-b9bf-66af78bf2c8c"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cdec07ba-5723-4514-8c35-2eb9688f1b32.xml#cdec07ba-5723-4514-8c35-2eb9688f1b32"/>
+</archimate:AssociationRelationship>
